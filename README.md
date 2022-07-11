@@ -10,3 +10,7 @@ Basic off
 Code: Grzegorz Zyla - SuN
 grzegorzsun@gmail.com
 Sinus: Koala/Agenda
+
+###### party - party version
+###### final - PIN Ready version :)
+
