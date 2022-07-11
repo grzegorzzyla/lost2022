@@ -1,5 +1,4 @@
-# lost2022
-Lost2022
+# Lost 2022
 
 256b intro - LostParty 2022
 
